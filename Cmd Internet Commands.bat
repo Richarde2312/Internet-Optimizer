@@ -1,4 +1,5 @@
 @echo off
+
 ipconfig /flushdns
 ipconfig /registerdns
 ipconfig /release
