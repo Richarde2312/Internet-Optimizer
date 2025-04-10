@@ -1,1 +1,1 @@
-Download the file and run as an Administrator
+Download the file and run as an Administrator.
